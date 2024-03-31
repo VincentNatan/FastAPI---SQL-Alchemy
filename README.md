@@ -26,11 +26,12 @@ To run this project locally, follow these steps:
 
 1. Start the FastAPI server:
 
-      ```bash
-      poetry run uvicorn main:app --reload
+   ```bash
+   poetry run uvicorn main:app --reload   
 The server will start running at http://localhost:8000.
-3. Open your web browser or use a tool like Postman to interact with the API endpoints.
-4. Use the following endpoints to manage users:
+
+2. Open your web browser or use a tool like Postman to interact with the API endpoints.
+3. Use the following endpoints to manage users:
 
    - **Create User**: POST /api/create/
    - **Get User by ID**: GET /api/users/{user_id}
