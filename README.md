@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 
    ```bash
    poetry run uvicorn main:app --reload   
-The server will start running at http://localhost:8000.
+The server will start running at http://localhost:8000/docs.
 
 2. Open your web browser or use a tool like Postman to interact with the API endpoints.
 3. Use the following endpoints to manage users:
