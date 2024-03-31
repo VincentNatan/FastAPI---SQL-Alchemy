@@ -15,7 +15,7 @@ To run this project locally, follow these steps:
 2. Install Depedencies
 
    ```bash
-   poetry run pytest
+   poetry install
 
 4. Setup Database
 
