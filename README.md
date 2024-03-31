@@ -40,3 +40,6 @@ To run this project locally, follow these steps:
 ## Testing
 
 You can run the unit tests using pytest.
+
+```bash
+poetry run pytest
